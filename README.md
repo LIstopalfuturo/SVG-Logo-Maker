@@ -94,3 +94,6 @@ SVG: Scalable Vector Graphics used for the logo generation.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Demo
+Check out the video demonstration of the application (https://1drv.ms/v/c/2cebbbbed41529a2/EVSu1Xgj3AJKqDnteyTFw7EB235NxalOuQ0nVVvqESf2Pg?e=w1tHJ2).
